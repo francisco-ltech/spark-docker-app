@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # IDE's
+.idea
 .idea/modules
 .idea/*.iml
 .idea/*.xml
